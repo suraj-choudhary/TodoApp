@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F3047C83-F89B-4F98-88C5-26F92785AA50"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "008C18A1-3071-412D-8A69-DAA528BF67B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToListApp-MVVM/View/NoItemsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "addAnimation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "008C18A1-3071-412D-8A69-DAA528BF67B1 - bd1a1cde928463db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ToListApp_MVVM.NoItemsView.addAnimation() -&gt; ()"
+                  moduleName = "ToListApp-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surajkumar/Desktop/ToListApp-MVVM/ToListApp-MVVM/View/NoItemsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "008C18A1-3071-412D-8A69-DAA528BF67B1 - bd1a1cde928463db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ToListApp_MVVM.NoItemsView.addAnimation() -&gt; ()"
+                  moduleName = "ToListApp-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surajkumar/Desktop/ToListApp-MVVM/ToListApp-MVVM/View/NoItemsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4E35577-D13C-4553-B5F4-883CC54145D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToListApp-MVVM/View/NoItemsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
